@@ -33,3 +33,49 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
+<span class="red-text">This text is red.</span> <span style="color: rgb(29, 42, 225);">蓝色</span>
+<!-- 用css class = "red-text" 这样设置的颜色粘贴后B站专栏里显示不出来, 用font标记也显示不出来 -->
+ <font color=Blue>这是蓝色的文字</font>
+
+
+<style>
+/*Tooltip 容器*/
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* 悬停元素上显示点线 */
+}
+ 
+/* Tooltip 文本 */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #27c965;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* 定位 */
+    position: absolute;
+    z-index: 1;
+}
+ 
+/* 鼠标移动上去后显示提示框 */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+</style>
+ 
+<p>
+<div class="tooltip">鼠标移动到这
+  <span class="tooltiptext">提示文本</span>
+</div>
+</p>
+
+<style>
+        .red-text {
+            color: red;
+        }
+</style>
