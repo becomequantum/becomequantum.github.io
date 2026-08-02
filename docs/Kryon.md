@@ -1,6 +1,6 @@
 ---
 title: Kryon 克里昂
-nav_order: 2
+nav_order: 3
 ---
 
 ### 更多我翻译的克里昂信息在[MyBlog库](https://github.com/becomequantum/MyBlog/tree/main/%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D)“推荐书籍”目录下的这几个电子书中：
