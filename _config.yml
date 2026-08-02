@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: becomequantum的博客
+description: B站無限次元Up主
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/becomequantum
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  B站無限次元: https://space.bilibili.com/2139404925
+
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
