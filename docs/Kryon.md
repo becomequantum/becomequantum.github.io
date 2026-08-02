@@ -5,14 +5,17 @@ nav_order: 3
 
 ### 更多我翻译的克里昂信息在[MyBlog库](https://github.com/becomequantum/MyBlog/tree/main/%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D)“推荐书籍”目录下的这几个电子书中：
 《克里昂答问合集》，《克里昂译文汇总》，《克里昂-回家之旅》
+* [克里昂官网](https://kryon.com/k_25.html)
+* [Kryon Lee Carroll油管官方频道](https://www.youtube.com/@kryonleecarroll3491)
+* [B站上的一些克里昂现场通灵视频](https://www.bilibili.com/video/BV1qoUnByEdo)
 
-## 克里昂是谁？
+## Kryon克里昂是谁？
 
 2005年1月19日
 
 由靈媒SabineSangitar傳導
  
-我是磁力服務克里昂。
+我是磁力服務克里昂。I am Kryon of Magnetic Service.
  
 這位靈媒請我談一點關於我的創生，我的源起以及我來自的宇宙。
  
