@@ -7,6 +7,12 @@ url: https://github.com/becomequantum
 aux_links:
   B站無限次元: https://space.bilibili.com/2139404925
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
