@@ -5,5 +5,5 @@ nav_order: 1
 ---
 
 
-{: .fs-9 }
-搜索好像不支持中文 {: .fs-6 .fw-300 }
+{: .fs-7 }
+搜索好像不支持中文, This is my blog
