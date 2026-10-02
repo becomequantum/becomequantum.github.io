@@ -1,5 +1,5 @@
 ---
-title: AI信息茧房！
+title: AI信息茧房！不用担心老了咋办！
 parent: 闲谈文章
 nav_order: 7
 ---
