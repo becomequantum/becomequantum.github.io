@@ -1,5 +1,5 @@
 ---
-title: AI信息茧房！不用担心老了咋办！
+title: AI信息茧房！丁克老了咋办？
 parent: 闲谈文章
 nav_order: 7
 ---
