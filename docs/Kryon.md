@@ -3,7 +3,7 @@ title: Kryon 克里昂
 nav_order: 3
 ---
 
-### 更多我翻译的克里昂信息在[MyBlog库“推荐书籍”目录下](https://github.com/becomequantum/MyBlog/tree/main/%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D)的这几个电子书中：
+### 更多我翻译的克里昂信息在[Kryon库“推荐书籍.zip”](https://github.com/becomequantum/Kryon)的这几个电子书中：
 《克里昂答问合集》，《克里昂译文汇总》，《克里昂-回家之旅》
 * [克里昂官网](https://kryon.com/k_25.html)
 * [Kryon Lee Carroll油管官方频道](https://www.youtube.com/@kryonleecarroll3491)
