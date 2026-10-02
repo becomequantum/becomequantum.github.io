@@ -29,5 +29,5 @@ nav_order: 7
 这个收藏夹里收藏了一些和健康相关的视频，有些是很小众的，播放量只有几千的视频，如果你自己不去搜，也没有别人推荐，大家几乎是不会刷到这些更有价值的视频的。
 
 更多关于苗和HPV苗的链接见下面这篇文章的最下面：
-[我看过的文章视频推荐](https://github.com/becomequantum/MyBlog/tree/main/%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D) 
+[我看过的文章视频推荐](https://becomequantum.github.io/docs/blog/%E6%88%91%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90.html) 
 
